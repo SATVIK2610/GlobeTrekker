@@ -1,10 +1,10 @@
-# Travel Advisor
+# GlobeTrekker
 
-![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
+![GlobeTrekker](https://i.ibb.co/qph2cZn/image.pngg)
 
 
 ## Overview
-The Travel Companion Application is an advanced travel assistant that leverages the power of Google Maps and various specialized APIs to provide users with detailed information about places, restaurants, hotels, and attractions. The application offers features such as geolocation, searching for places, fetching data from Rapid APIs, and data filtering to enhance the user experience.
+GlobeTrekker Application is an advanced travel assistant that leverages the power of Google Maps and various specialized APIs to provide users with detailed information about places, restaurants, hotels, and attractions. The application offers features such as geolocation, searching for places, fetching data from Rapid APIs, and data filtering to enhance the user experience.
 
 ## Features
 * Geolocation: Automatically detect and display the user's current location.
