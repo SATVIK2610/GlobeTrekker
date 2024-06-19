@@ -2,25 +2,30 @@
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
 
-## Introduction
-Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application that you can currently find on YouTube and on the entire internet.
+## Overview
+The Travel Companion Application is an advanced travel assistant that leverages the power of Google Maps and various specialized APIs to provide users with detailed information about places, restaurants, hotels, and attractions. The application offers features such as geolocation, searching for places, fetching data from Rapid APIs, and data filtering to enhance the user experience.
 
-In this video, you'll learn:
+## Features
+* Geolocation: Automatically detect and display the user's current location.
+* Google Maps Integration: Interactive map interface for displaying places and user locations.
+* Place Search: Search for places of interest (restaurants, hotels, attractions) using the Google Maps API.
+* Fetching Data: Retrieve detailed information about restaurants, hotels, and attractions from specialized Rapid APIs.
+* Data Filtering: Filter search results based on user preferences (e.g., ratings, distance).
+* Responsive Design: Ensure compatibility across various devices and screen sizes.
 
-- Advanced React Best Practices such as folder & file structure, hooks and refs
-- Creating a User Interface using Material UI
-- Working with Google Maps API
-- And most importantly fetching data from unlimited sources using RapidAPI
-- Essentially, you'll become the master of working with APIs
+## Technologies Used
+* **Frontend**: React, JavaScript, HTML, CSS
+* **Backend**: Node.js, Express
+* **APIs**:
+    * Google Maps API
+    * Rapid APIs (for fetching detailed place information)
+    * Geolocation: HTML5 Geolocation API
+* State Management: Redux (optional)
+* Build Tools: Webpack, Babel
 
-[RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-[Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-[Open Weather Map API](https://rapidapi.com/community/api/open-weather-map?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
-
-Setup: run ```npm i && npm start``` to start the development server
+## Prerequisites
+* Node.js (v14 or above)
+* npm or yarn
+* Google Maps API key
+* Rapid API key(s)
